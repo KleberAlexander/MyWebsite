@@ -1,0 +1,36 @@
+body { background-color: #FFA500; }
+h1 {
+	font-family: helvetica;
+	font-size: 44px;
+	color: #000000;
+	background-color: #FF1493;
+}
+h2,h3 {
+	font-family: helvetica;
+	font-size 22px;
+	color: #000000;
+	background-color: #c4c4c4;
+	box-shadow: 0 0 10px 5px #000000;
+}
+img {
+	box-shadow: 0 0 10px 5px #FF1493;
+	heigh: 500px;
+	width: 500px;
+}
+table {
+	font-family: helvetica;
+	font-size 22px;
+	color: #000000;
+	background-color: #c4c4c4;
+}
+p1 {
+	font-family: helvetica;
+	font-size: 65px;
+	color: #000000;
+	background-color: #FF1493;
+	font-weight: 900;
+}
+form {
+	heigh: 50px;
+	width: 100px;
+}
